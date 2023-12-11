@@ -1,0 +1,7 @@
+{
+  "name": "RxAlert",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
